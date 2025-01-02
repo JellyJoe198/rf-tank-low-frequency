@@ -23,3 +23,6 @@ https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/
 
 Dual frequency field detector: https://github.com/exploitagency/RFID-Field-Detector  
 This has an antenna to detect the low frequency. An easy starting point would be to copy that antenna on a thin pcb, and put in a capacitor instead of the LEDs. The optimal size might be different (see equivalent circuit in [1]) but it might work well enough to base a testing board off of it.  
+
+## Product Vision for Qi extender  
+My phone gets hot while wirelessly charging, and I think it would be cool to have something in my case to increase the efficiency of wireless charging. Ideally this would fit as a sticker small enough to go on the back of a phone case. Something like the V3 of Hamspiced Repeater. This might be more difficult because of the larger component values required, but there is also more space to work with.  
